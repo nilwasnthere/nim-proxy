@@ -38,6 +38,8 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k2.5'
   'step-fun': 'stepfun-ai/step-3.5-flash'
   'glm': 'z-ai/glm4.7'
+  'mistral': 'mistralai/mistral-large-3-675b-instruct-2512'
+  'nemotron': 'nvidia/nemotron-mini-4b-instruct'
 };
 
 // Root endpoint
