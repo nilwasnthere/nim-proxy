@@ -42,6 +42,7 @@ const MODEL_MAPPING = {
   'nemotron': 'nvidia/nemotron-mini-4b-instruct'
   'gemma': 'google/gemma-3n-e2b-it'
   'llama': 'meta/llama-4-maverick-17b-128e-instruct'
+  'minimax': 'minimaxai/minimax-m2.7'
 };
 
 // Root endpoint
