@@ -43,6 +43,7 @@ const MODEL_MAPPING = {
   'gemma': 'google/gemma-3n-e2b-it'
   'llama': 'meta/llama-4-maverick-17b-128e-instruct'
   'minimax': 'minimaxai/minimax-m2.7'
+  'deepseek': 'deepseek-ai/deepseek-v4-flash'
 };
 
 // Root endpoint
