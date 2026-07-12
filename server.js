@@ -36,11 +36,10 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5'
-  'step-fun': 'stepfun-ai/step-3.5-flash'
-  'glm': 'z-ai/glm4.7'
+  'glm': 'z-ai/glm-5.2'
   'mistral': 'mistralai/mistral-large-3-675b-instruct-2512'
   'nemotron': 'nvidia/nemotron-mini-4b-instruct'
-  'gemma': 'google/gemma-3n-e2b-it'
+  'gemma': 'google/diffusiongemma-26b-a4b-it'
   'llama': 'meta/llama-4-maverick-17b-128e-instruct'
   'minimax': 'minimaxai/minimax-m2.7'
   'deepseek': 'deepseek-ai/deepseek-v4-flash'
